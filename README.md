@@ -14,6 +14,14 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+<details>
+  <summary>Check <a href="https://wakatime.com/@Azamatik">wakatime</a> stats</summary><br>
+  <img src="https://wakatime.com/share/@Azamatik/360aa4f8-bc7e-4524-be10-713c89e334f0.svg" width="700">
+</details>
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzamatKomaev&layout=compact)
+
 
 - 🔭 I’m currently working on my own fullstack blog in Spring/React
 - 🌱 I’m currently learning Spring and React/TypeScript 
