@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Azamat! 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Backend developer from North Ossetia, Russia 🇷🇺</h3> 
+<h3 align="center">DevOps engineer from North Ossetia, Russia 🇷🇺</h3> 
 
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
