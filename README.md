@@ -23,7 +23,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzamatKomaev&layout=compact)
 
 
-- 🔭 I’m currently working as Dev-Ops engineer with a good team
+- 🔭 I’m currently working as DevOps engineer with a good team
 - 🌱 I’m currently learning Kubernetes and Yandex Cloud services
 - :zap: Subscribe to my <a href="https://habr.com/ru/users/AzamatKomaev/publications/articles/">Habr</a>
 - 👨‍💻 I'm writing posts about my studies in <a href="https://t.me/code_by_student">my telegram blog</a>
