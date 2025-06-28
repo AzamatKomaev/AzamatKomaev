@@ -24,7 +24,7 @@
 
 
 - 🔭 I’m currently working as DevOps engineer with a good team
-- 🌱 I’m currently learning Kubernetes and Yandex Cloud services
+- 🌱 I’m currently learning Kubernetes and Cloud services (AWS, Yandex.Cloud)
 - :zap: Subscribe to my <a href="https://habr.com/ru/users/AzamatKomaev/publications/articles/">Habr</a>
 - 👨‍💻 I'm writing posts about my studies in <a href="https://t.me/code_by_student">my telegram blog</a>
 
